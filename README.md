@@ -63,4 +63,6 @@ Dataset: `agentlans/reddit-logic` on Hugging Face. Check the dataset page for it
 
 ## License
 
-No software license has been added yet. Add a license only after deciding how you want others to use, modify, and redistribute this project.
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
